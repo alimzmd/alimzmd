@@ -2,7 +2,7 @@
                                      <h4 align="center"> ________________________________________________*Lost Old Account*___________________________________________________</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimzmd&label=Profile%20views&color=0e75b6&style=flat" alt="alimzmd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
