@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramjan</h1
-                                     <h4 align="center"> ________________________________________________*Lost Old Account*___________________________________________________</h4>
+                                     <h4 align="center"> ________________________________________________*Lost Old Account, It's My New One*___________________________________________________</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimzmd&label=Profile%20views&color=0e75b6&style=flat" alt="alimzmd" /> </p>
 
 
