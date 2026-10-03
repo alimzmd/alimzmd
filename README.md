@@ -1,1 +1,22 @@
 # animated-pancake
+# Hi, I'm Md Ramjan Ali 👋
+
+M.Sc. Physics student at **Freie Universität Berlin** focusing on computational optics, ultrafast spectroscopy, and materials modeling.
+
+---
+
+### 🔬 Research & Technical Focus
+- **Computational Physics:** Material simulation, 2D Ising model, and numerical methods in Python/Jupyter.
+- **Optics & Spectroscopy:** Differential Reflectance Spectroscopy (DRS), Ultrafast Laser Physics.
+- **Simulation Tools:** COMSOL Multiphysics, ZEMAX, Inkscape.
+
+---
+
+### 🛠️ Languages & Tools
+`Python` • `Jupyter Notebook` • `COMSOL` • `ZEMAX` • `Git` • `LaTeX`
+
+---
+
+### 📫 Connect with Me
+- **Institution:** Freie Universität Berlin
+- **Location:** Berlin, Germany
