@@ -1,8 +1,6 @@
 ____________________" Lost Old Account, It's My New One "____________________
+
 # Hi, I'm Ali 👋
-
-M.Sc. Physics student at **Freie Universität Berlin**
-
 ---
 
 ### 🔬 Research & Technical Focus
