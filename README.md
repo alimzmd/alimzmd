@@ -11,10 +11,5 @@ ____________________" Lost Old Account, It's My New One "____________________
 ---
 
 ### 🛠️ Languages & Tools
-`Python` • `Jupyter Notebook` • `COMSOL` • `ZEMAX` • `Git` • `LaTeX`
-
----
-
-### 📫 Connect with Me
-- **Institution:** Freie Universität Berlin
-- **Location:** Berlin, Germany
+`Python` • `Jupyter Notebook` • 'OpenCV' • 'Tensorflow'
+•`COMSOL` • `ZEMAX` • `Git` • `LaTeX`
